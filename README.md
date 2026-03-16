@@ -1,1 +1,3 @@
-# projects
+The contact management system has been created through c++ including all the basic functions and operations. The system enables users to keep the record of contacts via their own devices makingit easier and effiecient to handle as compared to the complex systems.
+The project "typing speed tester" allows users to keep the track of the words per minute(wpm) in an easy and convenient method, the system has been programmed via python which includes several libraries, loops, functions and basic operatons.
+The cinema ticket booking system has been programmed through OOP in c++ which contains all the 4 pillars(polymorphism, abstraction, encapsulation and inhertiance) along with classes and functions followed by basic logical operations. The project enables users to book tickets for any type of screen from their devices in a user-friendly manner reducing its complexity.
